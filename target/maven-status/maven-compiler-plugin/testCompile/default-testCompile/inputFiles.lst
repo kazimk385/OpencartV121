@@ -1,0 +1,12 @@
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\pageObjects\BasePage.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\pageObjects\HomePage.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\pageObjects\LoginPage.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\pageObjects\MyAccountPage.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\testBase\BaseClass.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\testCases\TC001_AccountRegistrationPage.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\testCases\TC02_LoginTest.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\testCases\TC03_DataDrivenTest.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\utilities\DataProviders.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\utilities\ExcelUtility.java
+C:\Workspace\SDET Majid\OpencartV121\src\test\java\utilities\ExtentReportManager.java
